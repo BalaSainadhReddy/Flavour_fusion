@@ -49,5 +49,3 @@ https://farashmoin7.streamlit.app/](https://flavourfusion-balu.streamlit.app/
 - **Streamlit Community Cloud** (Deployment)
 
 ---
-
-## 📂 Project Structure
